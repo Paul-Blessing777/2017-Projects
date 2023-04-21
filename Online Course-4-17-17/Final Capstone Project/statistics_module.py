@@ -1,5 +1,7 @@
 import math
-
+"""
+Created by Paul Blessing 3/15/17, last updated 4/20/23
+"""
 def median(list1):
     easy_median = False
     median = 0.0
