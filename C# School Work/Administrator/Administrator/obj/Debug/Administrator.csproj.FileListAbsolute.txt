@@ -1,0 +1,11 @@
+c:\users\paul\documents\visual studio 2015\Projects\Administrator\Administrator\bin\Debug\Administrator.exe.config
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Administrator\Administrator\bin\Debug\Administrator.exe
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Administrator\Administrator\bin\Debug\Administrator.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.exe
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.pdb
+C:\Users\Paul\documents\visual studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.DB_backup_and_restore.resources
+C:\Users\Paul\documents\visual studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.Admin_Login.resources
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\Administrator\Administrator\obj\Debug\Administrator.MyBank.resources
