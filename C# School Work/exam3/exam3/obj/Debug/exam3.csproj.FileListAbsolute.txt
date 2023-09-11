@@ -1,0 +1,9 @@
+c:\users\paul\documents\visual studio 2015\Projects\exam3\exam3\bin\Debug\exam3.exe.config
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\exam3\exam3\obj\Debug\exam3.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\exam3\exam3\obj\Debug\exam3.Form1.resources
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\exam3\exam3\obj\Debug\exam3.Properties.Resources.resources
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\exam3\exam3\obj\Debug\exam3.csproj.GenerateResource.Cache
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\exam3\exam3\bin\Debug\exam3.exe
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\exam3\exam3\bin\Debug\exam3.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\exam3\exam3\obj\Debug\exam3.exe
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\exam3\exam3\obj\Debug\exam3.pdb
