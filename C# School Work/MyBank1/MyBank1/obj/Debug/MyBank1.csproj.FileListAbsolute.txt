@@ -1,0 +1,14 @@
+c:\users\paul\documents\visual studio 2015\Projects\MyBank1\MyBank1\bin\Debug\MyBank1.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\MyBank1\MyBank1\bin\Debug\MyBank1.exe
+c:\users\paul\documents\visual studio 2015\Projects\MyBank1\MyBank1\bin\Debug\MyBank1.pdb
+c:\users\paul\documents\visual studio 2015\Projects\MyBank1\MyBank1\obj\Debug\MyBank1.Admin_Login.resources
+c:\users\paul\documents\visual studio 2015\Projects\MyBank1\MyBank1\obj\Debug\MyBank1.DB_backup_and_restore.resources
+c:\users\paul\documents\visual studio 2015\Projects\MyBank1\MyBank1\obj\Debug\MyBank1.MyBank.resources
+c:\users\paul\documents\visual studio 2015\Projects\MyBank1\MyBank1\obj\Debug\MyBank1.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2015\Projects\MyBank1\MyBank1\obj\Debug\MyBank1.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2015\Projects\MyBank1\MyBank1\obj\Debug\MyBank1.exe
+c:\users\paul\documents\visual studio 2015\Projects\MyBank1\MyBank1\obj\Debug\MyBank1.pdb
+c:\users\paul\documents\visual studio 2015\Projects\MyBank1\MyBank1\obj\Debug\MyBank1.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\MyBank1\MyBank1\obj\Debug\MyBank1.ATM.resources
+c:\users\paul\documents\visual studio 2015\Projects\MyBank1\MyBank1\obj\Debug\MyBank1.LoanQualify.resources
+c:\users\paul\documents\visual studio 2015\Projects\MyBank1\MyBank1\obj\Debug\MyBank1.Mortage.resources
