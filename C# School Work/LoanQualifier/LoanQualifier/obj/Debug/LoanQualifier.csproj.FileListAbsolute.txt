@@ -1,0 +1,9 @@
+c:\users\paul\documents\visual studio 2015\Projects\LoanQualifier\LoanQualifier\bin\Debug\LoanQualifier.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\LoanQualifier\LoanQualifier\bin\Debug\LoanQualifier.exe
+c:\users\paul\documents\visual studio 2015\Projects\LoanQualifier\LoanQualifier\bin\Debug\LoanQualifier.pdb
+c:\users\paul\documents\visual studio 2015\Projects\LoanQualifier\LoanQualifier\obj\Debug\LoanQualifier.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\LoanQualifier\LoanQualifier\obj\Debug\LoanQualifier.Form1.resources
+c:\users\paul\documents\visual studio 2015\Projects\LoanQualifier\LoanQualifier\obj\Debug\LoanQualifier.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2015\Projects\LoanQualifier\LoanQualifier\obj\Debug\LoanQualifier.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2015\Projects\LoanQualifier\LoanQualifier\obj\Debug\LoanQualifier.exe
+c:\users\paul\documents\visual studio 2015\Projects\LoanQualifier\LoanQualifier\obj\Debug\LoanQualifier.pdb
