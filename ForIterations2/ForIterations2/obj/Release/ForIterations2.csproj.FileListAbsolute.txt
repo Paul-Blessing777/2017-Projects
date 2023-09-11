@@ -1,5 +1,0 @@
-C:\Users\Paul\Documents\Visual Studio 2015\Projects\ForIterations2\ForIterations2\bin\Release\ForIterations2.exe.config
-C:\Users\Paul\Documents\Visual Studio 2015\Projects\ForIterations2\ForIterations2\bin\Release\ForIterations2.exe
-C:\Users\Paul\Documents\Visual Studio 2015\Projects\ForIterations2\ForIterations2\bin\Release\ForIterations2.pdb
-C:\Users\Paul\Documents\Visual Studio 2015\Projects\ForIterations2\ForIterations2\obj\Release\ForIterations2.exe
-C:\Users\Paul\Documents\Visual Studio 2015\Projects\ForIterations2\ForIterations2\obj\Release\ForIterations2.pdb
