@@ -1,0 +1,9 @@
+c:\users\paul\documents\visual studio 2015\Projects\ATMApplication\ATMApplication\bin\Debug\ATMApplication.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\ATMApplication\ATMApplication\bin\Debug\ATMApplication.exe
+c:\users\paul\documents\visual studio 2015\Projects\ATMApplication\ATMApplication\bin\Debug\ATMApplication.pdb
+c:\users\paul\documents\visual studio 2015\Projects\ATMApplication\ATMApplication\obj\Debug\ATMApplication.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\ATMApplication\ATMApplication\obj\Debug\ATMApplication.Form1.resources
+c:\users\paul\documents\visual studio 2015\Projects\ATMApplication\ATMApplication\obj\Debug\ATMApplication.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2015\Projects\ATMApplication\ATMApplication\obj\Debug\ATMApplication.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2015\Projects\ATMApplication\ATMApplication\obj\Debug\ATMApplication.exe
+c:\users\paul\documents\visual studio 2015\Projects\ATMApplication\ATMApplication\obj\Debug\ATMApplication.pdb
