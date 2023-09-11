@@ -1,0 +1,9 @@
+c:\users\paul\documents\visual studio 2015\Projects\MortageCalculator\MortageCalculator\bin\Debug\MortageCalculator.exe.config
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\MortageCalculator\MortageCalculator\bin\Debug\MortageCalculator.exe
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\MortageCalculator\MortageCalculator\bin\Debug\MortageCalculator.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\MortageCalculator\MortageCalculator\obj\Debug\MortageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\MortageCalculator\MortageCalculator\obj\Debug\MortageCalculator.Form1.resources
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\MortageCalculator\MortageCalculator\obj\Debug\MortageCalculator.Properties.Resources.resources
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\MortageCalculator\MortageCalculator\obj\Debug\MortageCalculator.csproj.GenerateResource.Cache
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\MortageCalculator\MortageCalculator\obj\Debug\MortageCalculator.exe
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\MortageCalculator\MortageCalculator\obj\Debug\MortageCalculator.pdb
