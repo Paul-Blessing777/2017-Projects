@@ -1,0 +1,6 @@
+c:\users\paul\documents\visual studio 2015\Projects\Understanding Arrays\Understanding Arrays\bin\Debug\Understanding Arrays.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\Understanding Arrays\Understanding Arrays\bin\Debug\Understanding Arrays.exe
+c:\users\paul\documents\visual studio 2015\Projects\Understanding Arrays\Understanding Arrays\bin\Debug\Understanding Arrays.pdb
+c:\users\paul\documents\visual studio 2015\Projects\Understanding Arrays\Understanding Arrays\obj\Debug\Understanding Arrays.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\Understanding Arrays\Understanding Arrays\obj\Debug\Understanding Arrays.exe
+c:\users\paul\documents\visual studio 2015\Projects\Understanding Arrays\Understanding Arrays\obj\Debug\Understanding Arrays.pdb
