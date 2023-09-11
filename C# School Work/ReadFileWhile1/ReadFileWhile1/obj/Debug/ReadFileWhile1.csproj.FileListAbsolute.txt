@@ -1,0 +1,7 @@
+c:\users\paul\documents\visual studio 2015\Projects\ReadFileWhile1\ReadFileWhile1\bin\Debug\ReadFileWhile1.exe.config
+C:\Users\Paul\documents\visual studio 2015\Projects\ReadFileWhile1\ReadFileWhile1\obj\Debug\ReadFileWhile1.csprojResolveAssemblyReference.cache
+C:\Users\Paul\documents\visual studio 2015\Projects\ReadFileWhile1\ReadFileWhile1\bin\Debug\Values.txt
+C:\Users\Paul\documents\visual studio 2015\Projects\ReadFileWhile1\ReadFileWhile1\bin\Debug\ReadFileWhile1.exe
+C:\Users\Paul\documents\visual studio 2015\Projects\ReadFileWhile1\ReadFileWhile1\bin\Debug\ReadFileWhile1.pdb
+C:\Users\Paul\documents\visual studio 2015\Projects\ReadFileWhile1\ReadFileWhile1\obj\Debug\ReadFileWhile1.exe
+C:\Users\Paul\documents\visual studio 2015\Projects\ReadFileWhile1\ReadFileWhile1\obj\Debug\ReadFileWhile1.pdb

@@ -1,0 +1,9 @@
+c:\users\paul\documents\visual studio 2015\Projects\SalePriceCalculator\SalePriceCalculator\bin\Debug\SalePriceCalculator.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\SalePriceCalculator\SalePriceCalculator\bin\Debug\SalePriceCalculator.exe
+c:\users\paul\documents\visual studio 2015\Projects\SalePriceCalculator\SalePriceCalculator\bin\Debug\SalePriceCalculator.pdb
+c:\users\paul\documents\visual studio 2015\Projects\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.Form1.resources
+c:\users\paul\documents\visual studio 2015\Projects\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2015\Projects\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2015\Projects\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.exe
+c:\users\paul\documents\visual studio 2015\Projects\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.pdb
