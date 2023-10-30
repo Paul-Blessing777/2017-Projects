@@ -1,0 +1,33 @@
+Thu Mar 12 09:58:28 2020 **Warning** - Record too long - Record Length 852 record: 111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+Thu Mar 12 09:58:28 2020 INFO - Processed - Records: 3  SourceID: CANADA
+Thu Mar 12 09:58:29 2020 INFO - Processed - Records: 2  SourceID: FORD
+Found: C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/Book Notes 10/TireRegistration.ini File
+Thu Mar 12 09:58:28 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_conrads.txt: CONRADS file NOT found
+Thu Mar 12 09:58:28 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_canada.txt CANADA file found and opening processing
+Thu Mar 12 09:58:29 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_casnet.txt: CASNET file NOT found
+Thu Mar 12 09:58:29 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_cims.txt: CIMS file NOT found
+Thu Mar 12 09:58:29 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_retail.txt: RETAIL file NOT found
+Thu Mar 12 09:58:29 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_trr.txt: TRR file NOT found
+Thu Mar 12 09:58:29 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_wingfoot.txt: WINGFOOT file NOT found
+Thu Mar 12 09:58:29 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_ford.txt FORD file found and opening processing
+Thu Mar 12 09:58:29 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_vol.txt: VOL file NOT found
+Thu Mar 12 09:58:29 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ Goodyear.csv: TIREMTRX file NOT found
+Thu Mar 12 09:58:29 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_fca.txt: FCA file NOT found
+Thu Mar 12 09:58:29 2020 INFO  - Loading WEBOPS Tire Registrations
+Thu Mar 12 09:58:32 2020 INFO  - Done Loading WEBOPS Tire Registrations
+Thu Mar 12 09:58:32 2020 SCRIPT FINISHED
+Found: C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/Book Notes 10/TireRegistration.ini File
+Thu Mar 12 09:59:23 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_conrads.txt: CONRADS file NOT found
+Thu Mar 12 09:59:23 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_canada.txt: CANADA file NOT found
+Thu Mar 12 09:59:23 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_casnet.txt: CASNET file NOT found
+Thu Mar 12 09:59:23 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_cims.txt: CIMS file NOT found
+Thu Mar 12 09:59:23 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_retail.txt: RETAIL file NOT found
+Thu Mar 12 09:59:23 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_trr.txt: TRR file NOT found
+Thu Mar 12 09:59:23 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_wingfoot.txt: WINGFOOT file NOT found
+Thu Mar 12 09:59:23 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_ford.txt: FORD file NOT found
+Thu Mar 12 09:59:23 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_vol.txt: VOL file NOT found
+Thu Mar 12 09:59:23 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ Goodyear.csv: TIREMTRX file NOT found
+Thu Mar 12 09:59:23 2020 INFO - C:/Users/ac01658/OneDrive - Goodyear/Python/Book Notes/ tirereg_fca.txt: FCA file NOT found
+Thu Mar 12 09:59:23 2020 INFO  - Loading WEBOPS Tire Registrations
+Thu Mar 12 09:59:23 2020 INFO  - Done Loading WEBOPS Tire Registrations
+Thu Mar 12 09:59:23 2020 SCRIPT FINISHED

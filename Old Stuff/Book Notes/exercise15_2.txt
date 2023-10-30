@@ -1,0 +1,14 @@
+13
+Blessing 100
+Jones 67
+Paydock 98
+Stevens 55
+2 100
+3 33
+1 0
+2 22
+3 99
+4 85
+2 10
+hi 67
+world 78

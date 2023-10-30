@@ -1,0 +1,11 @@
+10
+Blessing 100
+Jones 67
+Paydock 98
+Stevens 55
+Sanderson 82
+Flinn 77
+Sellers 78
+Descartes 89
+Plomin 69
+Pheonix 66
