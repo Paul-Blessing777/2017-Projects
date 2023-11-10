@@ -94,8 +94,6 @@ class Player():
         return self.value_hand
 
 def set_up_game():
-
-
     """
     Initializes the game by creating a player and a dealer with the "Player" class
     """
@@ -131,7 +129,7 @@ def continue_game(info_name,info_chips):
         # Clears all old output from last game
         clear_output(True)
         time.sleep(2)
-        stopper = "Time.sleep is broken..."
+        #stopper = "Time.sleep is broken..."
         
         # Resets player, dealer and deck variables
         deck = Deck()
@@ -170,7 +168,7 @@ def final_check(player,dealer,wager_amount):
     if player.hand_value() > dealer.hand_value():
         print(f"{player.name}'s hand value: {player.hand_value()} || {dealer.name}'s hand value: {dealer.hand_value()}")
         print(f"{player.name} you won! with a hand of {player.hand_list} and value of {player.hand_value()}")
-        player.chips += wager_amount * 2
+        player.chips += (wager_amount * 2)
         print(f"Congratz {player.name}! You Won {wager_amount*2} chips!")
         
     # If the dealer's hand is larger they win
@@ -207,8 +205,8 @@ def initial_deal(player,dealer,deck,wager_amount):
             
         # Checks and ends game if player gets black jack
         elif player.hand_value() == 21:
-            print(f"{player.name} you hit Black Jack! You Win! You won {wager_amount*2} chips!")
-            player.chips += wager_amount * 2
+            print(f"{player.name} you hit Black Jack! You Win! You won {(wager_amount*2) + (wager_amount*1.5)} chips!")
+            player.chips += (wager_amount * 2) + (wager_amount*1.5)
             play_game = False
             dealing = False
             break
@@ -258,8 +256,6 @@ def ace_check_initial(player):
     hand_ranks = []
     keep_asking = True
     
-
-        
     
     # If the player has two aces the first is reduced to one
     if player.hand_value() == 22:
@@ -321,7 +317,7 @@ def dealer_play(player,dealer,deck,wager_amount):
     if dealer.hand_value() == 21:
         print(f"{dealer.name} got 21! BlackJack!")
         print(f"{player.name} sorry you BUSTED! and lost {wager_amount} chips!")
-        player.chips -= wager_amount
+        #player.chips -= wager_amount
         play_game = False
     
     # Checks if the dealer busted and if so ends the game
@@ -334,7 +330,6 @@ def dealer_play(player,dealer,deck,wager_amount):
     return play_game
 
 def wager(player):
-    
     """
     Has the player make a wager with their chips to play black jack
     """
@@ -403,7 +398,7 @@ def black_jack(replay = False, info_name = None, info_chips = None):
             
             if play_game == False:
                 return player.name,player.chips
-                break
+                #break
 
             # Player is done and dealer's full hand is revealed
             print(f"Dealer Flipped their hidden card!")
@@ -421,7 +416,7 @@ def black_jack(replay = False, info_name = None, info_chips = None):
             
             if play_game == False:
                 return player.name,player.chips
-                break
+                #break
 
             # If dealer didn't bust a final comparison is made to see who has the lager value   
             final_check(player,dealer,wager_amount)
