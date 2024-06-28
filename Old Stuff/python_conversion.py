@@ -12,7 +12,7 @@ logFilePath = "D:/TireRegistration/Log"
 
 def DBConnection(DBstatus):
     """This function can be called to either open the DB connection or close it"""
-    conn = cx_Oracle.connect("TRSADMIN", "TRS", "DBX03T")
+    conn = cx_Oracle.connect("ADMIN", "*", "123157")
     if DBstatus == True:
         return conn
     else:
